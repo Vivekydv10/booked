@@ -3,7 +3,7 @@
 
 import React from 'react'
 import { Routes , Route} from 'react-router-dom'
-import Home from './pages/HOme'
+import Home from './pages/Home'
 import Doctor from './pages/Doctors'
 import Login from './pages/Login'
 import MyProfile from './pages/MyProfile'
